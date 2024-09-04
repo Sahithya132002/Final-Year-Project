@@ -4,3 +4,4 @@
 4) Silva, K. W. D. (2021). Online Appointment System for Kotelawala Defence University Hospital (Doctoral dissertation).
 5) Odeh, A., Abdelhadi, R., & Odeh, H. (2019, December). Medical patient appointments management using smart software system in UAE. In 2019 International Arab Conference on Information Technology (ACIT) (pp. 97-101). IEEE.
 6) Akinode, J. L., & Oloruntoba, S. A. (2017). Design and implementation of a patient appointment and scheduling system. Department of Computer Science, Federal Polytechnic Ilaro Nigeria.
+7) Wang, M., Le, Y., & Yu, C. H. (2023, December). MedCare4Home: A Mobile Medical System for Families. In 2023 IEEE International Conference on E-health Networking, Application & Services (Healthcom) (pp. 259-264). IEEE.
