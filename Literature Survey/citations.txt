@@ -3,4 +3,5 @@
 3) Enciso, L., Castro, J., & Zelaya-Policarpo, E. (2018). Smart Health: Mobile Application for Booking Medical Appointments. In WEBIST (pp. 438-445).
 4) Aktepe*, A., Turker, A. K., & Ersoz, S. (2015). Internet based intelligent hospital appointment system. Intelligent Automation & Soft Computing, 21(2), 135-146.
 5) Qabajeh, M. M., Mousa, S., Saleh, H. A., & Hasan, J. A. (2021, December). Design and implementation of mobile-based application for appointments systems for vaccinations in medical centers. In 2021 31st International Conference on Computer Theory and Applications (ICCTA) (pp. 54-58). IEEE.
-6) 
+6) Xiao, Q., Luo, L., Zhao, S. Z., Ran, X. B., & Feng, Y. B. (2018). Online appointment scheduling for a nuclear medicine department in a Chinese hospital. Computational and mathematical methods in medicine, 2018(1), 5148215.
+7) 
