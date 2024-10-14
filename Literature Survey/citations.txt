@@ -6,4 +6,5 @@
 6) Xiao, Q., Luo, L., Zhao, S. Z., Ran, X. B., & Feng, Y. B. (2018). Online appointment scheduling for a nuclear medicine department in a Chinese hospital. Computational and mathematical methods in medicine, 2018(1), 5148215.
 7) Dai, J., Geng, N., & Xie, X. (2021). Dynamic advance scheduling of outpatient appointments in a moving booking window. European Journal of Operational Research, 292(2), 622-632.
 8) Habibi, M. R. M., Mohammadabadi, F., Tabesh, H., Vakili-Arki, H., Abu-Hanna, A., & Eslami, S. (2019). Effect of an online appointment scheduling system on evaluation metrics of outpatient scheduling system: a before-after multicenterstudy. Journal of medical systems, 43, 1-9.
-9) 
+9) Valenzuela-Núñez, C., Latorre-Núñez, G., & Espinosa, F. T. (2024). Smart Medical Appointment Scheduling: Optimization, Machine Learning and Overbooking to Enhance Resource Utilization. IEEE Access.
+10) 
