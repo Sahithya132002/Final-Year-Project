@@ -69,7 +69,7 @@ const Header = ({ open, handleDrawerOpen, headerTitle }) => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h4" noWrap component="div" onClick={redirectToHome} sx={{ flexGrow: 1, fontWeight: 'bolder', color: '#b5344a', fontFamily: 'Arial' }} >
-          V22 Hospital
+          Multi Speciality Hospital
         </Typography>
         {isLoggedIn && (
           <div className={styles.accountIcon}>

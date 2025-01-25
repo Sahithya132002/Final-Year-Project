@@ -119,7 +119,7 @@ export default function DoctorDashboard() {
 					<h4> Dr. {currentUser.firstName} {currentUser.lastName} </h4>
 					<br/>
 					<div class={styles.horizontalLine}></div>
-					At V22, we believe that every patient deserves the highest quality care possible. 
+					At Hospital Management System, we believe that every patient deserves the highest quality care. 
 					<br/>
 					Our commitment to excellence in healthcare is matched only by our compassion for those we serve.
 
