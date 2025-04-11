@@ -187,74 +187,7 @@ export default function Dashboard() {
 											</tr>
 
 
-											{/* <tr>
-												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
-												</td>                 
-												<td>
-													<h5 class="time-title p-0">Appointment With</h5>
-													<p>Dr. Cristina Groves</p>
-												</td>
-												<td>
-													<h5 class="time-title p-0">Timing</h5>
-													<p>7.00 PM</p>
-												</td>
-												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
-												</td>
-											</tr>
-											<tr>
-												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
-												</td>                 
-												<td>
-													<h5 class="time-title p-0">Appointment With</h5>
-													<p>Dr. Cristina Groves</p>
-												</td>
-												<td>
-													<h5 class="time-title p-0">Timing</h5>
-													<p>7.00 PM</p>
-												</td>
-												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
-												</td>
-											</tr>
-											<tr>
-												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
-												</td>                 
-												<td>
-													<h5 class="time-title p-0">Appointment With</h5>
-													<p>Dr. Cristina Groves</p>
-												</td>
-												<td>
-													<h5 class="time-title p-0">Timing</h5>
-													<p>7.00 PM</p>
-												</td>
-												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
-												</td>
-											</tr>
-											<tr>
-												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
-												</td>                 
-												<td>
-													<h5 class="time-title p-0">Appointment With</h5>
-													<p>Dr. Cristina Groves</p>
-												</td>
-												<td>
-													<h5 class="time-title p-0">Timing</h5>
-													<p>7.00 PM</p>
-												</td>
-												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
-												</td>
-											</tr> */}
+											
 										</tbody>
 									</table>
 								</div>
